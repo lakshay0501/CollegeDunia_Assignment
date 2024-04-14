@@ -1,0 +1,224 @@
+{
+  "colleges": [
+    {
+      "collegeName": "Indian Institute of Technology Bombay",
+      "collegeFees": 200000,
+      "collegePlacement": {
+        "averagePackage": "₹20,00,000",
+        "highestPackage": "₹1,50,00,000"
+      },
+      "userReviewRating": 4.7,
+      "collegeduniaRank": 1,
+      "collegeAllIndiaRanking": 3
+    },
+    {
+      "collegeName": "Indian Institute of Management Ahmedabad",
+      "collegeFees": 2300000,
+      "collegePlacement": {
+        "averagePackage": "₹25,00,000",
+        "highestPackage": "₹2,00,00,000"
+      },
+      "userReviewRating": 4.8,
+      "collegeduniaRank": 2,
+      "collegeAllIndiaRanking": 1
+    },
+    {
+      "collegeName": "National Institute of Technology Trichy",
+      "collegeFees": 125000,
+      "collegePlacement": {
+        "averagePackage": "₹15,00,000",
+        "highestPackage": "₹80,00,000"
+      },
+      "userReviewRating": 4.5,
+      "collegeduniaRank": 3,
+      "collegeAllIndiaRanking": 6
+    },
+    {
+      "collegeName": "Birla Institute of Technology and Science, Pilani",
+      "collegeFees": 300000,
+      "collegePlacement": {
+        "averagePackage": "₹18,00,000",
+        "highestPackage": "₹60,00,000"
+      },
+      "userReviewRating": 4.4,
+      "collegeduniaRank": 4,
+      "collegeAllIndiaRanking": 5
+    },
+    {
+      "collegeName": "Delhi Technological University",
+      "collegeFees": 180000,
+      "collegePlacement": {
+        "averagePackage": "₹12,00,000",
+        "highestPackage": "₹50,00,000"
+      },
+      "userReviewRating": 4.2,
+      "collegeduniaRank": 5,
+      "collegeAllIndiaRanking": 8
+    },
+    {
+      "collegeName": "Vellore Institute of Technology",
+      "collegeFees": 250000,
+      "collegePlacement": {
+        "averagePackage": "₹10,00,000",
+        "highestPackage": "₹40,00,000"
+      },
+      "userReviewRating": 4.0,
+      "collegeduniaRank": 6,
+      "collegeAllIndiaRanking": 7
+    },
+    {
+      "collegeName": "Indian Institute of Management Bangalore",
+      "collegeFees": 2100000,
+      "collegePlacement": {
+        "averagePackage": "₹24,00,000",
+        "highestPackage": "₹1,80,00,000"
+      },
+      "userReviewRating": 4.9,
+      "collegeduniaRank": 7,
+      "collegeAllIndiaRanking": 2
+    },
+    {
+      "collegeName": "Indian Institute of Technology Delhi",
+      "collegeFees": 210000,
+      "collegePlacement": {
+        "averagePackage": "₹19,00,000",
+        "highestPackage": "₹1,20,00,000"
+      },
+      "userReviewRating": 4.6,
+      "collegeduniaRank": 8,
+      "collegeAllIndiaRanking": 4
+    },
+    {
+      "collegeName": "Indian Institute of Technology Kanpur",
+      "collegeFees": 190000,
+      "collegePlacement": {
+        "averagePackage": "₹18,00,000",
+        "highestPackage": "₹1,10,00,000"
+      },
+      "userReviewRating": 4.5,
+      "collegeduniaRank": 9,
+      "collegeAllIndiaRanking": 5
+    },
+    {
+      "collegeName": "Indian Institute of Technology Kharagpur",
+      "collegeFees": 220000,
+      "collegePlacement": {
+        "averagePackage": "₹17,00,000",
+        "highestPackage": "₹1,00,00,000"
+      },
+      "userReviewRating": 4.4,
+      "collegeduniaRank": 10,
+      "collegeAllIndiaRanking": 6
+    },
+    {
+      "collegeName": "BITS Pilani - Hyderabad Campus",
+      "collegeFees": 350000,
+      "collegePlacement": {
+        "averagePackage": "₹16,00,000",
+        "highestPackage": "₹90,00,000"
+      },
+      "userReviewRating": 4.3,
+      "collegeduniaRank": 11,
+      "collegeAllIndiaRanking": 13
+    },
+    {
+      "collegeName": "Indian Institute of Technology Roorkee",
+      "collegeFees": 230000,
+      "collegePlacement": {
+        "averagePackage": "₹16,00,000",
+        "highestPackage": "₹95,00,000"
+      },
+      "userReviewRating": 4.4,
+      "collegeduniaRank": 12,
+      "collegeAllIndiaRanking": 9
+    },
+    {
+      "collegeName": "Jamia Millia Islamia",
+      "collegeFees": 85000,
+      "collegePlacement": {
+        "averagePackage": "₹8,00,000",
+        "highestPackage": "₹45,00,000"
+      },
+      "userReviewRating": 4.0,
+      "collegeduniaRank": 13,
+      "collegeAllIndiaRanking": 18
+    },
+    {
+      "collegeName": "Anna University",
+      "collegeFees": 75000,
+      "collegePlacement": {
+        "averagePackage": "₹7,00,000",
+        "highestPackage": "₹40,00,000"
+      },
+      "userReviewRating": 3.9,
+      "collegeduniaRank": 14,
+      "collegeAllIndiaRanking": 19
+    },
+    {
+      "collegeName": "Amity University, Noida",
+      "collegeFees": 280000,
+      "collegePlacement": {
+        "averagePackage": "₹9,00,000",
+        "highestPackage": "₹55,00,000"
+      },
+      "userReviewRating": 4.1,
+      "collegeduniaRank": 15,
+      "collegeAllIndiaRanking": 21
+    },
+    {
+      "collegeName": "Christ University, Bangalore",
+      "collegeFees": 250000,
+      "collegePlacement": {
+        "averagePackage": "₹10,00,000",
+        "highestPackage": "₹60,00,000"
+      },
+      "userReviewRating": 4.2,
+      "collegeduniaRank": 16,
+      "collegeAllIndiaRanking": 24
+    },
+    {
+      "collegeName": "Narsee Monjee Institute of Management Studies, Mumbai",
+      "collegeFees": 400000,
+      "collegePlacement": {
+        "averagePackage": "₹15,00,000",
+        "highestPackage": "₹1,20,00,000"
+      },
+      "userReviewRating": 4.5,
+      "collegeduniaRank": 17,
+      "collegeAllIndiaRanking": 12
+    },
+    {
+      "collegeName": "Symbiosis Institute of Business Management, Pune",
+      "collegeFees": 350000,
+      "collegePlacement": {
+        "averagePackage": "₹14,00,000",
+        "highestPackage": "₹1,00,00,000"
+      },
+      "userReviewRating": 4.4,
+      "collegeduniaRank": 18,
+      "collegeAllIndiaRanking": 15
+    },
+    {
+      "collegeName": "University of Delhi",
+      "collegeFees": 120000,
+      "collegePlacement": {
+        "averagePackage": "₹9,00,000",
+        "highestPackage": "₹60,00,000"
+      },
+      "userReviewRating": 4.3,
+      "collegeduniaRank": 19,
+      "collegeAllIndiaRanking": 23
+    },
+    {
+      "collegeName": "Manipal Institute of Technology",
+      "collegeFees": 300000,
+      "collegePlacement": {
+        "averagePackage": "₹12,00,000",
+        "highestPackage": "₹70,00,000"
+      },
+      "userReviewRating": 4.2,
+      "collegeduniaRank": 20,
+      "collegeAllIndiaRanking": 17
+    }
+  ]
+}
