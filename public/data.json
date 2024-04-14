@@ -9,7 +9,8 @@
       },
       "userReviewRating": 4.7,
       "collegeduniaRank": 1,
-      "collegeAllIndiaRanking": 3
+      "collegeAllIndiaRanking": 3,
+      "isfeatured":true
     },
     {
       "collegeName": "Indian Institute of Management Ahmedabad",
@@ -20,7 +21,8 @@
       },
       "userReviewRating": 4.8,
       "collegeduniaRank": 2,
-      "collegeAllIndiaRanking": 1
+      "collegeAllIndiaRanking": 1,
+      "isfeatured":true
     },
     {
       "collegeName": "National Institute of Technology Trichy",
@@ -31,7 +33,8 @@
       },
       "userReviewRating": 4.5,
       "collegeduniaRank": 3,
-      "collegeAllIndiaRanking": 6
+      "collegeAllIndiaRanking": 6,
+      "isfeatured":false
     },
     {
       "collegeName": "Birla Institute of Technology and Science, Pilani",
@@ -42,7 +45,8 @@
       },
       "userReviewRating": 4.4,
       "collegeduniaRank": 4,
-      "collegeAllIndiaRanking": 5
+      "collegeAllIndiaRanking": 5,
+      "isfeatured":false
     },
     {
       "collegeName": "Delhi Technological University",
@@ -53,7 +57,8 @@
       },
       "userReviewRating": 4.2,
       "collegeduniaRank": 5,
-      "collegeAllIndiaRanking": 8
+      "collegeAllIndiaRanking": 8,
+      "isfeatured":true
     },
     {
       "collegeName": "Vellore Institute of Technology",
@@ -64,7 +69,8 @@
       },
       "userReviewRating": 4.0,
       "collegeduniaRank": 6,
-      "collegeAllIndiaRanking": 7
+      "collegeAllIndiaRanking": 7,
+      "isfeatured":false
     },
     {
       "collegeName": "Indian Institute of Management Bangalore",
@@ -75,7 +81,8 @@
       },
       "userReviewRating": 4.9,
       "collegeduniaRank": 7,
-      "collegeAllIndiaRanking": 2
+      "collegeAllIndiaRanking": 2,
+      "isfeatured":true
     },
     {
       "collegeName": "Indian Institute of Technology Delhi",
@@ -86,7 +93,8 @@
       },
       "userReviewRating": 4.6,
       "collegeduniaRank": 8,
-      "collegeAllIndiaRanking": 4
+      "collegeAllIndiaRanking": 4,
+      "isfeatured":true
     },
     {
       "collegeName": "Indian Institute of Technology Kanpur",
@@ -97,7 +105,8 @@
       },
       "userReviewRating": 4.5,
       "collegeduniaRank": 9,
-      "collegeAllIndiaRanking": 5
+      "collegeAllIndiaRanking": 5,
+      "isfeatured":true
     },
     {
       "collegeName": "Indian Institute of Technology Kharagpur",
@@ -108,7 +117,8 @@
       },
       "userReviewRating": 4.4,
       "collegeduniaRank": 10,
-      "collegeAllIndiaRanking": 6
+      "collegeAllIndiaRanking": 6,
+      "isfeatured":true
     },
     {
       "collegeName": "BITS Pilani - Hyderabad Campus",
@@ -119,7 +129,8 @@
       },
       "userReviewRating": 4.3,
       "collegeduniaRank": 11,
-      "collegeAllIndiaRanking": 13
+      "collegeAllIndiaRanking": 13,
+      "isfeatured":false
     },
     {
       "collegeName": "Indian Institute of Technology Roorkee",
@@ -130,7 +141,8 @@
       },
       "userReviewRating": 4.4,
       "collegeduniaRank": 12,
-      "collegeAllIndiaRanking": 9
+      "collegeAllIndiaRanking": 9,
+      "isfeatured":true
     },
     {
       "collegeName": "Jamia Millia Islamia",
@@ -141,7 +153,8 @@
       },
       "userReviewRating": 4.0,
       "collegeduniaRank": 13,
-      "collegeAllIndiaRanking": 18
+      "collegeAllIndiaRanking": 18,
+      "isfeatured":false
     },
     {
       "collegeName": "Anna University",
@@ -152,7 +165,8 @@
       },
       "userReviewRating": 3.9,
       "collegeduniaRank": 14,
-      "collegeAllIndiaRanking": 19
+      "collegeAllIndiaRanking": 19,
+      "isfeatured":false
     },
     {
       "collegeName": "Amity University, Noida",
@@ -163,7 +177,8 @@
       },
       "userReviewRating": 4.1,
       "collegeduniaRank": 15,
-      "collegeAllIndiaRanking": 21
+      "collegeAllIndiaRanking": 21,
+      "isfeatured":false
     },
     {
       "collegeName": "Christ University, Bangalore",
@@ -174,7 +189,8 @@
       },
       "userReviewRating": 4.2,
       "collegeduniaRank": 16,
-      "collegeAllIndiaRanking": 24
+      "collegeAllIndiaRanking": 24,
+      "isfeatured":false
     },
     {
       "collegeName": "Narsee Monjee Institute of Management Studies, Mumbai",
@@ -185,7 +201,8 @@
       },
       "userReviewRating": 4.5,
       "collegeduniaRank": 17,
-      "collegeAllIndiaRanking": 12
+      "collegeAllIndiaRanking": 12,
+      "isfeatured":false
     },
     {
       "collegeName": "Symbiosis Institute of Business Management, Pune",
@@ -196,7 +213,8 @@
       },
       "userReviewRating": 4.4,
       "collegeduniaRank": 18,
-      "collegeAllIndiaRanking": 15
+      "collegeAllIndiaRanking": 15,
+      "isfeatured":false
     },
     {
       "collegeName": "University of Delhi",
@@ -207,7 +225,8 @@
       },
       "userReviewRating": 4.3,
       "collegeduniaRank": 19,
-      "collegeAllIndiaRanking": 23
+      "collegeAllIndiaRanking": 23,
+      "isfeatured":false
     },
     {
       "collegeName": "Manipal Institute of Technology",
@@ -218,7 +237,8 @@
       },
       "userReviewRating": 4.2,
       "collegeduniaRank": 20,
-      "collegeAllIndiaRanking": 17
+      "collegeAllIndiaRanking": 17,
+      "isfeatured":false
     }
   ]
 }

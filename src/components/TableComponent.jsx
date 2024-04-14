@@ -40,7 +40,6 @@ const TableComponent = ({ colleges }) => {
   const handleSearch = (event) => {
     
     setSearchTerm(event.target.value);
-    console.log(event.target.value)
   };
 
   useEffect(() => {
@@ -48,7 +47,6 @@ const TableComponent = ({ colleges }) => {
     const filteredColleges = colleges.filter((college) =>
       college.collegeName.toLowerCase().includes(searchTerm.toLowerCase())
     );
-    console.log(filteredColleges)
     // Sort filtered colleges
     sortColleges(sortCriteria, sortOrder, filteredColleges);
   }, [searchTerm, sortCriteria, sortOrder, colleges]);
@@ -82,7 +80,10 @@ const TableComponent = ({ colleges }) => {
       {sortedColleges?.map((college, index) => (
         <div key={index} className='grid grid-cols-12 text-center border border-slate-400'>
           <div className='col-span-1 border border-slate-400'>{college.collegeduniaRank}</div>
-          <div className='col-span-3 border border-slate-400 text-sky-600 text-bold'>{college.collegeName}</div>
+          <div className='col-span-3 border border-slate-400'>
+            {college.isfeatured && <div className='bg bg-red-500 w-20 rounded-md mb-2'>Featured</div>}
+            <div className='text-sky-600 text-bold'>{college.collegeName}</div>
+        </div>
           <div className='col-span-2 border border-slate-400 '>
             <div className='text-green-500 text-bold'>{college.collegeFees}</div>
             <div>BE/BTech</div>
